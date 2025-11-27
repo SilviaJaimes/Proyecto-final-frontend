@@ -693,7 +693,7 @@ npm run dev
 
 1. **Clonar el repositorio**
 ```bash
-https://github.com/SilviaJaimes/Proyecto-final-frontend.git
+git clone https://github.com/SilviaJaimes/Proyecto-final-frontend.git
 ```
 
 2. **Instalar dependencias**
